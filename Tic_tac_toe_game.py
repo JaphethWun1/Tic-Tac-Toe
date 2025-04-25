@@ -35,6 +35,7 @@ def tic_tac_toe():
     board = init_board()
     current_player = 'X'
     while True:
+        print("Tic-Tac-Toe")
         print_board(board)
         print(f"Player {current_player}, enter your move (type 'exit' to quit):")
         try:

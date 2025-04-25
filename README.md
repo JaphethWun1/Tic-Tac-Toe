@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
- Programmed in Python using VsCode
+Programmed in Python using VsCode
