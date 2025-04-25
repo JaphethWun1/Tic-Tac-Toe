@@ -68,5 +68,6 @@ def tic_tac_toe():
             print("It's a draw!")
             break
         current_player = 'O' if current_player == 'X' else 'X'
+    board = ''
         
 tic_tac_toe()
